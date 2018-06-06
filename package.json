@@ -1,0 +1,27 @@
+{
+  "name": "learnbot",
+  "version": "1.0.0",
+  "description": "learning the bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello, World!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshvshah/LearnBOT.git"
+  },
+  "keywords": [
+    "learnbot",
+    "bot"
+  ],
+  "author": "Harsh Shah",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/harshvshah/LearnBOT/issues"
+  },
+  "homepage": "https://github.com/harshvshah/LearnBOT#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.2.0"
+  }
+}
